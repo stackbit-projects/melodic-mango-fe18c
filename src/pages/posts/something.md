@@ -7,7 +7,7 @@ content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: Something
-  description: ''
+  description: testing testing
   robots: []
   extra: []
   type: stackbit_page_meta
